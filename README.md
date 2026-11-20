@@ -1,4 +1,4 @@
-# Hi, I'm Orkhan 👋
+# Hi, I'm Orkhan
 
 **Data Analyst · SharePoint Administrator · Power Platform Automation · Trainer**
 
