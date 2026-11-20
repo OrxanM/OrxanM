@@ -45,27 +45,16 @@ I turn raw operational data into clear, decision-ready dashboards — and automa
 
 ---
 
-## 📁 Featured Projects
-
-> Portfolio projects built with public or synthetic data. More coming soon.
-
-| Project | Tools | Status |
-|---|---|---|
-| Procurement Dashboard | Power BI, SQL | 🚧 In progress |
-| IT Device Control Dashboard | Power BI | 🚧 In progress |
-| Employee Attendance Dashboard | Grafana, SQL | 🚧 In progress |
-| Transport Maintenance Dashboard | Power BI | 🚧 In progress |
-| Jira Management Dashboard | Power BI | 🚧 In progress |
-
----
-
 ## 🎓 Teaching
 
 3 years as a university lecturer and 1.5 years as a Data Analytics trainer.
 I run individual and small-group **Data Analytics trainings** (Excel, SQL, Power BI, Python).
+Co-creator of **[Academic Coder](https://www.youtube.com/@AcademicCoder-p9r)** — a team YouTube channel with computer science video lessons.
 
 ---
 
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orkhan-musayev)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@orkhanmusayev)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@AcademicCoder-p9r)
